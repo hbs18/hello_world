@@ -1,6 +1,6 @@
 # prints "hello world" n times.
 
 
-def hello(n):
+def hello(x):
     for i in range(n):
         print("hello world!")
